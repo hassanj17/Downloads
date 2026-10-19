@@ -1,8 +1,5 @@
 
 ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
-1,Task,b676551,Completed,Create main.py menu and program loop with options to add sleep entry view summary view all entries and exit,Hassan J,Hassan J,,,,"Test the menu and connect it to the functions in tracker.py"
-2,Task,,In Progress,Implement tracker.py functions for adding sleep entries viewing sleep summary and viewing all entries,Student B,Student B,,,,"Make sure tracker functions work with the shared data in data.py"
-3,Task,,In Progress,Implement data.py for storing sleep entry information using the required in-memory data structures,Student C,Student C,,,,"Coordinate with Student A and Student B so all files work together"
-4,Task,,In Progress,Test the complete Sleep Log Tracker program and fix errors,All Group Members,All Group Members,,,,"Test adding entries summary viewing all entries invalid menu choices and exiting"
-5,Task,,In Progress,Update README.md with project description instructions and usage information,All Group Members,All Group Members,,,,"Make sure the README explains how to run the program"
-6,Task,,In Progress,Track group tasks commits and progress in the issue tracker,All Group Members,All Group Members,,,,"Record actual commit IDs and update task statuses as work is completed"
+1,Task,b676551,Completed,Create main.py menu and program loop with options to add sleep entry view summary view all entries and exit,Hassan,Hassan,10/18/2026,10/16/2026,,""
+2,Task,9473df4,Completed,Implement tracker.py functions for adding sleep entries viewing sleep summary and viewing all entries,Nathaniel,Nathaniel,10/18/2026,10/17/2026,,""
+3,Task,fcf3d81,Completed,Implement data.py for storing sleep entry information using the required in-memory data structures,Mateo,Mateo,10/18/2026,10/17/2026,,""
